@@ -1,0 +1,18 @@
+{
+  "name": "chrisqq-discord-api",
+  "version": "1.0.0",
+  "description": "Discord'un Datasında'n uyenin verilerini çekme.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "node src/app.js"
+  },
+  "author": "chrisqq",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
